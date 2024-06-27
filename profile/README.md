@@ -1,3 +1,2 @@
-Hello there!
-Ini kurir package manager, buat @bulanskrip
-<sup>tapi masi WIP ya bodo</sup>
+Sementara gw tutup repony. Klo gw ga repot si gw lanjutin jg
+tp klo @bulanskrip masi lanjut kok, aman
